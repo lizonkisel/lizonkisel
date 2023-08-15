@@ -2,9 +2,7 @@
 
 I admire the "soft" power of modern web technologies and the monstrous power of industrial production. I want to have a hand in humanizing industrial production - making its image more attractive and accessible to society 
 
-|   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizonkisel&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)  |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizonkisel&layout=compact&theme=gotham)
-| |
-| |
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizonkisel&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizonkisel&layout=compact&theme=gotham)
 <!--
 **lizonkisel/lizonkisel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
