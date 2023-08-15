@@ -6,7 +6,7 @@ I admire the "soft" power of modern web technologies and the monstrous power of 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizonkisel&layout=compact&theme=gotham)
 
-
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=lizonkisel)
 <!--
 **lizonkisel/lizonkisel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
