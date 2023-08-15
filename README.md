@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I admire the "soft" power of modern web technologies and the monstrous power of industrial production. I want to have a hand in humanizing industrial production - making its image more attractive and accessible to society
+I admire the "soft" power of modern web technologies and the monstrous power of industrial production. I want to have a hand in humanizing industrial production - making its image more attractive and accessible to society 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizonkisel&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
