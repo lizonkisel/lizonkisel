@@ -36,7 +36,7 @@
 ### Contact me
 
 <a href='https://t.me/lizonkisel'><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'/></a>
-<a href='ees.hwork@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
+<a href='mailto: ees.hwork@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
 <!--
 **lizonkisel/lizonkisel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
