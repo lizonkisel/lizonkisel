@@ -1,6 +1,6 @@
-<h1 align='center'>Hi, :hand: I'm Liza! :cyclone: </h1>
+<h1>Hi, :hand: I'm Liza! :cyclone: </h1>
 
-<p align='center'>
+<p>
   My goal is to make modern, functional and eye-catching apps <br> for industrial production 🦾 and people around it. 
 </p>
 
@@ -33,10 +33,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lizonkisel&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizonkisel&layout=compact&theme=gotham)
 
-### Contsact me
+### Contact me
 
 <a href='https://t.me/lizonkisel'><img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white'/></a>
-
+<a href='ees.hwork@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
 <!--
 **lizonkisel/lizonkisel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
